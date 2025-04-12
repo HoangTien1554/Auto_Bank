@@ -70,6 +70,9 @@
   ('api_reader',
    'C:\\Users\\CAG PRO\\Desktop\\AutoBank\\api_reader.py',
    'PYMODULE'),
+  ('app_checker',
+   'C:\\Users\\CAG PRO\\Desktop\\AutoBank\\app_checker.py',
+   'PYMODULE'),
   ('argparse',
    'C:\\Users\\CAG '
    'PRO\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
@@ -825,6 +828,18 @@
    'C:\\Users\\CAG '
    'PRO\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
    'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\CAG '
+   'PRO\\Desktop\\AutoBank\\.venv\\Lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\CAG '
+   'PRO\\Desktop\\AutoBank\\.venv\\Lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\CAG '
+   'PRO\\Desktop\\AutoBank\\.venv\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
   ('py_compile',
    'C:\\Users\\CAG '
    'PRO\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
@@ -1299,9 +1314,6 @@
   ('webbrowser',
    'C:\\Users\\CAG '
    'PRO\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\webbrowser.py',
-   'PYMODULE'),
-  ('website_checker',
-   'C:\\Users\\CAG PRO\\Desktop\\AutoBank\\website_checker.py',
    'PYMODULE'),
   ('xml',
    'C:\\Users\\CAG '

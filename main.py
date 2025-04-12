@@ -5,7 +5,7 @@ from api_reader import fetch_and_save_transactions
 import time
 import threading
 
-from website_checker import check_website
+from app_checker import check_app_active
 
 url_check = "https://autobank.cagpro.cloud/ver.php"
 
@@ -15,7 +15,7 @@ def run_api_reader():
         time.sleep(3)  # Kiểm tra API mỗi 5 giây
 
 if __name__ == "__main__":
-    if check_website(url_check):
+    if check_app_active():
         app = QApplication(sys.argv)
         window = MainWindow()
         window.show()

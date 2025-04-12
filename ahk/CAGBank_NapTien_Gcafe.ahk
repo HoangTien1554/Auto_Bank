@@ -12,7 +12,7 @@ Click, 760, 70 ;
 Loop, 3 ;
 {
     Send, {Esc}
-    Sleep, 100  ; Đợi 100ms giữa mỗi lần bấm
+    Sleep, 100  ;
 }
 BlockInput, On  ;
 CoordMode, Mouse, Screen  ;

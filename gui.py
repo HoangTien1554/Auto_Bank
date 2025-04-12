@@ -9,7 +9,6 @@ import pyautogui
 from autohotkey_executor import execute_transaction
 from config_manager import load_config, update_config
 from transaction_manager import load_transactions, save_transactions
-from website_checker import check_website
 from xml_manager import load_xml_info
 import xml.etree.ElementTree as ET
 import playsound
